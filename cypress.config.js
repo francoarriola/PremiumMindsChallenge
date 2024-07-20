@@ -8,4 +8,13 @@ module.exports = defineConfig({
     specPattern: "cypress/e2e/**/*",
     baseUrl: "https://app.telpark.com/pt/",
   },
+  env: {
+    AdminUser: {
+      username: "francodoblecuenta@gmail.com",
+      password: "soyfranco1234",
+    },
+    endpoint: {
+      loginEndpoint: "/auth",
+    },
+  },
 });

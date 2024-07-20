@@ -1,6 +1,11 @@
-{
-  
-  "vehicle":{"vehicleName": "Audi Q5",
-  "plate": "441aaa",
-  "country": "Otro"}
-}
+[
+  {
+    "vehicleName": "Audi Q5",
+    "plate": "441aaa",
+    "country": "Otro"
+  },
+
+  { "vehicleName": "Ferrari 488", "plate": "558ffg", "country": "Otro" },
+  { "vehicleName": "BMW 535", "plate": "ptmol3", "country": "Otro" },
+  { "vehicleName": "Bentley", "plate": "f8f2fv", "country": "Otro" }
+]
